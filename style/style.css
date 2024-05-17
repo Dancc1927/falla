@@ -1,0 +1,48 @@
+*{
+ padding: 10px;
+
+}
+    body{ 
+    background-color: black;
+}
+img {
+    border-color: rgba(0, 0, 75, 0.562);
+    width: 230px;
+    height:135px;
+}
+
+h1{ 
+    background-color:red;
+    text-align:center;
+    border: 15px dotted #1E1C00;
+}
+
+p{
+    color:aliceblue;
+    text-align: center;
+    padding: 10px 30px;
+}
+li{
+    background-color:  aliceblue,
+    font-family: Arial;
+}
+.text-h1 {
+    color: aliceblue;
+
+}
+li{
+    color: aliceblue;
+    
+}
+a{
+    color:aliceblue
+}
+p1{
+    text-align: left;
+    color:aliceblue
+}
+h2 {
+    color:aliceblue;
+    text-align: left;
+    border-top-left-radius: 30px 50px;
+}
